@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bBPLTgUaIPnOB/NZwd5JnojnpTT41rZiMAYVfPB6vso=",
+  "Source": "CrudOperationWithMongoDB",
+  "BasePath": "_content/CrudOperationWithMongoDB",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
