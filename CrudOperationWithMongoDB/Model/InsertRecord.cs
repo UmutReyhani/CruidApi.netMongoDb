@@ -35,5 +35,10 @@ namespace CrudOperationWithMongoDB.Model
     {
         public bool IsSuccess { get; set; }
         public string Message { get; set; }
+
+        public static implicit operator InsertRecordResponse(GetAllRecordResponse v)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
